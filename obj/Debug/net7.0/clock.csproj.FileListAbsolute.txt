@@ -1,0 +1,15 @@
+/Users/berke/dev/personal/clock/bin/Debug/net7.0/clock
+/Users/berke/dev/personal/clock/bin/Debug/net7.0/clock.deps.json
+/Users/berke/dev/personal/clock/bin/Debug/net7.0/clock.runtimeconfig.json
+/Users/berke/dev/personal/clock/bin/Debug/net7.0/clock.dll
+/Users/berke/dev/personal/clock/bin/Debug/net7.0/clock.pdb
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.csproj.AssemblyReference.cache
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.AssemblyInfoInputs.cache
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.AssemblyInfo.cs
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.csproj.CoreCompileInputs.cache
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.dll
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/refint/clock.dll
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.pdb
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/clock.genruntimeconfig.cache
+/Users/berke/dev/personal/clock/obj/Debug/net7.0/ref/clock.dll
